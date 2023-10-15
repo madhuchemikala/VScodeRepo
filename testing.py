@@ -33,3 +33,4 @@ else:
 
 anniversary=date(2019, 2, 24)
 print(f"{anniversary:%A, %B %d, %Y}")
+print(f"{anniversary: %Y}")
